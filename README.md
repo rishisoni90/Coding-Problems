@@ -7,7 +7,8 @@
 
                                                                   ************************************************************
                                                                   *                                                           *
-                                          ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/0011cc9f-bee3-4311-b427-d1e21c2f24a7)
+                                          ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/3b687d27-21ff-403b-882b-baab8ad9fde3)
+
                             *
                                                                   *                                                           *
                                                                   *************************************************************         
