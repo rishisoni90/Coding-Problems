@@ -10,15 +10,8 @@
 
 
 
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/cf3c22a5-68cc-4646-a0c7-c9aedba5a397)
-
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/cdb23e2a-4165-4951-ab26-7db1b7e030f0)
-
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/3777e388-1ed0-483f-b37a-0e4d41acd1ee)
-
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/bc58d285-e478-471f-8120-b8f4406ea8c2)
-
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/febc75fe-cb74-4faa-a71b-04e88ae9ade9)
+![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/cf3c22a5-68cc-4646-a0c7-c9aedba5a397) ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/cdb23e2a-4165-4951-ab26-7db1b7e030f0) ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/3777e388-1ed0-483f-b37a-0e4d41acd1ee)
+![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/bc58d285-e478-471f-8120-b8f4406ea8c2)![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/febc75fe-cb74-4faa-a71b-04e88ae9ade9)
 
 
 
