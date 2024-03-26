@@ -23,3 +23,5 @@
 6 Find the Duplicate Number                  https://leetcode.com/problems/find-the-duplicate-number/submissions/1212815684?envType=daily-question&envId=2024-03-24
 
 7 Find All Duplicates in an Array           https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/1213492632?envType=daily-question&envId=2024-03-25
+
+8 First Missing Positive                    https://leetcode.com/problems/first-missing-positive/submissions/1214548073?envType=daily-question&envId=2024-03-26
