@@ -1,4 +1,4 @@
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/de99a7b5-8344-4e0e-8853-35d0eb9bb43b)
+
 
 
 
@@ -7,7 +7,7 @@
 
                                                                   ************************************************************
                                                                   *                                                           *
-                                          ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/3b687d27-21ff-403b-882b-baab8ad9fde3)
+                                          ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/de99a7b5-8344-4e0e-8853-35d0eb9bb43b)
 
                             *
                                                                   *                                                           *
