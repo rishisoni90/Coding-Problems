@@ -5,7 +5,7 @@
 
                                       
                                                        
-                                          ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/c48ddd82-af6b-4d40-935c-731ef5807127)
+![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/c48ddd82-af6b-4d40-935c-731ef5807127)
 
 
                              
