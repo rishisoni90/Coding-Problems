@@ -10,7 +10,8 @@
 
 
 
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/b778acee-841f-4b11-bca4-1825f2288bb0) 
+![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/70ff4d35-e6b2-4119-b33d-675d0009c4a9)
+ 
 
 ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/cdb23e2a-4165-4951-ab26-7db1b7e030f0) ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/3777e388-1ed0-483f-b37a-0e4d41acd1ee)
 ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/bc58d285-e478-471f-8120-b8f4406ea8c2)![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/febc75fe-cb74-4faa-a71b-04e88ae9ade9)
