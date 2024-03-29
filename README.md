@@ -39,3 +39,5 @@
 9 Subarray Product Less Than K                        https://leetcode.com/problems/subarray-product-less-than-k/submissions/1215598880?envType=daily-question&envId=2024-03-27
 
 8 Length of Longest Subarray With at Most K Frequency https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/submissions/1216740139?envType=daily-question&envId=2024-03-28
+
+9 Count Subarrays Where Max Element Appears at Least K Times https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/submissions/1217559149?envType=daily-question&envId=2024-03-29
