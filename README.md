@@ -11,6 +11,7 @@
 
 ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/70ff4d35-e6b2-4119-b33d-675d0009c4a9)![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/cdb23e2a-4165-4951-ab26-7db1b7e030f0) ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/3777e388-1ed0-483f-b37a-0e4d41acd1ee)
 ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/bc58d285-e478-471f-8120-b8f4406ea8c2)![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/febc75fe-cb74-4faa-a71b-04e88ae9ade9)
+![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/687be210-91ee-4744-8a28-33fc5cb03c4e)
 
 
 
@@ -43,3 +44,5 @@
 9 Count Subarrays Where Max Element Appears at Least K Times https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/submissions/1217559149?envType=daily-question&envId=2024-03-29
 
 10 Subarrays with K Different Integers                 https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/1218598298?envType=daily-question&envId=2024-03-30
+
+11 Count Subarrays With Fixed Bounds                  https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219357371?envType=daily-question&envId=2024-03-31
