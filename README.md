@@ -43,6 +43,6 @@
 
 9 Count Subarrays Where Max Element Appears at Least K Times https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/submissions/1217559149?envType=daily-question&envId=2024-03-29
 
-10 Subarrays with K Different Integers                 https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/1218598298?envType=daily-question&envId=2024-03-30
+10 ⭐ Subarrays with K Different Integers                 https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/1218598298?envType=daily-question&envId=2024-03-30
 
-11 Count Subarrays With Fixed Bounds                  [https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219357371?envType=daily-question&envId=2024-03-31](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219359347?envType=daily-question&envId=2024-03-31)
+11 ⭐ Count Subarrays With Fixed Bounds                  [https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219357371?envType=daily-question&envId=2024-03-31](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219359347?envType=daily-question&envId=2024-03-31)
