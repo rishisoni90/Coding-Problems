@@ -46,3 +46,5 @@
 10 ⭐ Subarrays with K Different Integers                 https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/1218598298?envType=daily-question&envId=2024-03-30
 
 11 ⭐ Count Subarrays With Fixed Bounds                  [https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219357371?envType=daily-question&envId=2024-03-31](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219359347?envType=daily-question&envId=2024-03-31)
+
+12 Length of Last Word                                https://leetcode.com/problems/length-of-last-word/submissions/1219596205?envType=daily-question&envId=2024-04-01
