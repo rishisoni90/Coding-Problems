@@ -50,3 +50,5 @@
 12 Length of Last Word                                https://leetcode.com/problems/length-of-last-word/submissions/1219596205?envType=daily-question&envId=2024-04-01
 
 13 Isomorphic Strings                                https://leetcode.com/problems/isomorphic-strings/submissions/1220623717?envType=daily-question&envId=2024-04-02
+
+14 Word Search                                       https://leetcode.com/problems/word-search/submissions/1222525290?envType=daily-question&envId=2024-04-03
