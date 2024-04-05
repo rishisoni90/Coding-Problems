@@ -54,3 +54,5 @@
 14 Word Search                                       https://leetcode.com/problems/word-search/submissions/1222525290?envType=daily-question&envId=2024-04-03
 
 15  Maximum Nesting Depth of the Parentheses        https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/submissions/1223121255?envType=daily-question&envId=2024-04-04
+
+16 Make The String Great                            https://leetcode.com/problems/make-the-string-great/submissions/1224255697?envType=daily-question&envId=2024-04-05
