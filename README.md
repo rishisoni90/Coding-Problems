@@ -58,3 +58,5 @@
 16 Make The String Great                            https://leetcode.com/problems/make-the-string-great/submissions/1224255697?envType=daily-question&envId=2024-04-05
 
 17 Minimum Remove to Make Valid Parentheses        https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/1224931594?envType=daily-question&envId=2024-04-06
+
+18 Valid Parenthesis String                        https://leetcode.com/problems/valid-parenthesis-string/submissions/1226160148?envType=daily-question&envId=2024-04-07
