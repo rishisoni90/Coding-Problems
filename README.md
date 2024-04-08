@@ -60,3 +60,5 @@
 17 Minimum Remove to Make Valid Parentheses        https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/1224931594?envType=daily-question&envId=2024-04-06
 
 18 Valid Parenthesis String                        https://leetcode.com/problems/valid-parenthesis-string/submissions/1226160148?envType=daily-question&envId=2024-04-07
+
+19 Number of Students Unable to Eat Lunch          https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/1227010117?envType=daily-question&envId=2024-04-08
