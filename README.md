@@ -62,3 +62,5 @@
 18 Valid Parenthesis String                        https://leetcode.com/problems/valid-parenthesis-string/submissions/1226160148?envType=daily-question&envId=2024-04-07
 
 19 Number of Students Unable to Eat Lunch          https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/1227010117?envType=daily-question&envId=2024-04-08
+
+20 Time Needed to Buy Tickets                    https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1227932283?envType=daily-question&envId=2024-04-09
