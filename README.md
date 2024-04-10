@@ -64,3 +64,5 @@
 19 Number of Students Unable to Eat Lunch          https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/1227010117?envType=daily-question&envId=2024-04-08
 
 20 Time Needed to Buy Tickets                    https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1227932283?envType=daily-question&envId=2024-04-09
+
+21 Reveal Cards In Increasing Order              https://leetcode.com/problems/reveal-cards-in-increasing-order/submissions/1228799742?envType=daily-question&envId=2024-04-10
