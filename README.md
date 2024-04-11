@@ -67,4 +67,4 @@
 
 21 Reveal Cards In Increasing Order              https://leetcode.com/problems/reveal-cards-in-increasing-order/submissions/1228799742?envType=daily-question&envId=2024-04-10
 
-22 Remove K Digits                              https://leetcode.com/problems/remove-k-digits/submissions/1229664400?envType=daily-question&envId=2024-04-11
+22 ⭐ Remove K Digits                              https://leetcode.com/problems/remove-k-digits/submissions/1229664400?envType=daily-question&envId=2024-04-11
