@@ -66,3 +66,5 @@
 20 Time Needed to Buy Tickets                    https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1227932283?envType=daily-question&envId=2024-04-09
 
 21 Reveal Cards In Increasing Order              https://leetcode.com/problems/reveal-cards-in-increasing-order/submissions/1228799742?envType=daily-question&envId=2024-04-10
+
+22 Remove K Digits                              https://leetcode.com/problems/remove-k-digits/submissions/1229664400?envType=daily-question&envId=2024-04-11
