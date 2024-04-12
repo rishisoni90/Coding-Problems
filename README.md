@@ -70,3 +70,5 @@
 22 ⭐ Remove K Digits                              https://leetcode.com/problems/remove-k-digits/submissions/1229664400?envType=daily-question&envId=2024-04-11
 
 23 Longest Strictly Increasing or Strictly Decreasing Subarray https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/submissions/1229807647
+
+24 Trapping Rain Water                              https://leetcode.com/problems/trapping-rain-water/submissions/1230518120?envType=daily-question&envId=2024-04-12
