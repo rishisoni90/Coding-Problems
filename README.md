@@ -12,6 +12,8 @@
 ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/70ff4d35-e6b2-4119-b33d-675d0009c4a9)![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/cdb23e2a-4165-4951-ab26-7db1b7e030f0) ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/3777e388-1ed0-483f-b37a-0e4d41acd1ee)
 ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/bc58d285-e478-471f-8120-b8f4406ea8c2)![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/febc75fe-cb74-4faa-a71b-04e88ae9ade9)
 ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/687be210-91ee-4744-8a28-33fc5cb03c4e)
+![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/661b96b7-332d-4279-85f4-8fe779714497)
+
 
 
 
@@ -72,3 +74,8 @@
 23 Longest Strictly Increasing or Strictly Decreasing Subarray https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/submissions/1229807647
 
 24 Trapping Rain Water                              https://leetcode.com/problems/trapping-rain-water/submissions/1230518120?envType=daily-question&envId=2024-04-12
+
+25 Maximal Rectangle                              https://leetcode.com/problems/maximal-rectangle/submissions/1231563085?envType=daily-question&envId=2024-04-13
+
+
+26 Sum of Left Leaves                          https://leetcode.com/problems/sum-of-left-leaves/submissions/1232419311?envType=daily-question&envId=2024-04-14
