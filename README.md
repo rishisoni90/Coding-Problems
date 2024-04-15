@@ -79,3 +79,5 @@
 
 
 26 Sum of Left Leaves                          https://leetcode.com/problems/sum-of-left-leaves/submissions/1232419311?envType=daily-question&envId=2024-04-14
+
+27 Sum Root to Leaf Numbers                  https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1233314996?envType=daily-question&envId=2024-04-15
