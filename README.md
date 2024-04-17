@@ -83,3 +83,5 @@
 27 Sum Root to Leaf Numbers                  https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1233314996?envType=daily-question&envId=2024-04-15
 
 28 Add One Row to Tree                      https://leetcode.com/problems/add-one-row-to-tree/submissions/1234349363?envType=daily-question&envId=2024-04-16
+
+29 Smallest String Starting From Leaf      https://leetcode.com/problems/smallest-string-starting-from-leaf/submissions/1235171055?envType=daily-question&envId=2024-04-17
