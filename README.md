@@ -91,3 +91,5 @@
 31 Find All Groups of Farmland            https://leetcode.com/problems/find-all-groups-of-farmland/submissions/1237574391?envType=daily-question&envId=2024-04-20
 
 32 Find if Path Exists in Graph          https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/1238382096?envType=daily-question&envId=2024-04-21
+
+33 Open the Lock                      https://leetcode.com/problems/open-the-lock/submissions/1239299310?envType=daily-question&envId=2024-04-22
