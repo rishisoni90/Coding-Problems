@@ -93,3 +93,5 @@
 32 Find if Path Exists in Graph          https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/1238382096?envType=daily-question&envId=2024-04-21
 
 33 Open the Lock                      https://leetcode.com/problems/open-the-lock/submissions/1239299310?envType=daily-question&envId=2024-04-22
+
+34 N-th Tribonacci Number            https://leetcode.com/problems/n-th-tribonacci-number/submissions/1240852342?envType=daily-question&envId=2024-04-24
