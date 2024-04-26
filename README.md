@@ -95,3 +95,7 @@
 33 Open the Lock                      https://leetcode.com/problems/open-the-lock/submissions/1239299310?envType=daily-question&envId=2024-04-22
 
 34 N-th Tribonacci Number            https://leetcode.com/problems/n-th-tribonacci-number/submissions/1240852342?envType=daily-question&envId=2024-04-24
+
+35 Longest Ideal Subsequence      https://leetcode.com/problems/longest-ideal-subsequence/submissions/1242010364?envType=daily-question&envId=2024-04-25
+
+36 Minimum Falling Path Sum II       https://leetcode.com/problems/minimum-falling-path-sum-ii/submissions/1242797620/?envType=daily-question&envId=2024-04-26
