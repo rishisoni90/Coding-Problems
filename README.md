@@ -99,3 +99,5 @@
 35 Longest Ideal Subsequence      https://leetcode.com/problems/longest-ideal-subsequence/submissions/1242010364?envType=daily-question&envId=2024-04-25
 
 36 Minimum Falling Path Sum II       https://leetcode.com/problems/minimum-falling-path-sum-ii/submissions/1242797620/?envType=daily-question&envId=2024-04-26
+
+37 Score After Flipping Matrix       https://leetcode.com/problems/score-after-flipping-matrix/submissions/1257158184?envType=daily-question&envId=2024-05-13
