@@ -101,3 +101,5 @@
 36 Minimum Falling Path Sum II       https://leetcode.com/problems/minimum-falling-path-sum-ii/submissions/1242797620/?envType=daily-question&envId=2024-04-26
 
 37 Score After Flipping Matrix       https://leetcode.com/problems/score-after-flipping-matrix/submissions/1257158184?envType=daily-question&envId=2024-05-13
+
+38 Path with Maximum Gold            https://leetcode.com/problems/path-with-maximum-gold/submissions/1257817184?envType=daily-question&envId=2024-05-14
