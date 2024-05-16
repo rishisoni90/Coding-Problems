@@ -105,3 +105,6 @@
 38 Path with Maximum Gold            https://leetcode.com/problems/path-with-maximum-gold/submissions/1257817184?envType=daily-question&envId=2024-05-14
 
 39 Find the Safest Path in a Grid  https://leetcode.com/problems/find-the-safest-path-in-a-grid/submissions/1258848768?envType=daily-question&envId=2024-05-15
+
+40  Evaluate Boolean Binary Tree  https://leetcode.com/problems/evaluate-boolean-binary-tree/submissions/1259808289?envType=daily-question&envId=2024-05-16
+
