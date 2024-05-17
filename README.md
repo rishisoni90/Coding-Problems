@@ -108,3 +108,6 @@
 
 40  Evaluate Boolean Binary Tree  https://leetcode.com/problems/evaluate-boolean-binary-tree/submissions/1259808289?envType=daily-question&envId=2024-05-16
 
+41 Delete Leaves With a Given Value  https://leetcode.com/problems/delete-leaves-with-a-given-value/submissions/1260627283?envType=daily-question&envId=2024-05-17
+
+
