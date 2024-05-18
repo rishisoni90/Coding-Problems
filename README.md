@@ -110,4 +110,6 @@
 
 41 Delete Leaves With a Given Value  https://leetcode.com/problems/delete-leaves-with-a-given-value/submissions/1260627283?envType=daily-question&envId=2024-05-17
 
+42 Distribute Coins in Binary Tree https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/1261525621?envType=daily-question&envId=2024-05-18
+
 
