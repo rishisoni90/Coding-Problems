@@ -34,7 +34,7 @@
 | 10     | Length of Longest Subarray With at Most K Frequency | [Link](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/submissions/1216740139?envType=daily-question&envId=2024-03-28)  |
 | 11     | Count Subarrays Where Max Element Appears at Least K Times | [Link](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/submissions/1217559149?envType=daily-question&envId=2024-03-29)  |
 | 12     | Subarrays with K Different Integers              | [Link](https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/1218598298?envType=daily-question&envId=2024-03-30)  |
-| 13     |<span style="background-color: #FFFF99"> Count Subarrays With Fixed Bounds                | [Link](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219357371?envType=daily-question&envId=2024-03-31)  |
+| 13     |<span style="background-color: #FFFF99"> Count Subarrays With Fixed Bounds </span>                | [Link](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219357371?envType=daily-question&envId=2024-03-31)  |
 | 14     | Length of Last Word                              | [Link](https://leetcode.com/problems/length-of-last-word/submissions/1219596205?envType=daily-question&envId=2024-04-01)  |
 | 15     | Isomorphic Strings                               | [Link](https://leetcode.com/problems/isomorphic-strings/submissions/1220623717?envType=daily-question&envId=2024-04-02)  |
 | 16     | Word Search                                      | [Link](https://leetcode.com/problems/word-search/submissions/1222525290?envType=daily-question&envId=2024-04-03)  |
