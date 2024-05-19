@@ -20,96 +20,50 @@
 *********************************************************************************************************************************************************************************************
 
 
-                               
- 1 Task Scheduler                                    https://leetcode.com/problems/task-scheduler/submissions/1208588088?envType=daily-question&envId=2024-03-19
-
- 2 Merge In Between Linked Lists                     https://leetcode.com/problems/merge-in-between-linked-lists/submissions/1209168286?envType=daily-question&envId=2024-03-20
-
- 3 Reverse Linked List                               https://leetcode.com/problems/reverse-linked-list/submissions/1210204005?envType=daily-question&envId=2024-03-21
-
- 4  Palindrome Linked List                           https://leetcode.com/problems/palindrome-linked-list/submissions/1210867061?envType=daily-question&envId=2024-03-22
-
-5  Reorder List                                      https://leetcode.com/problems/reorder-list/submissions/1211769867?envType=daily-question&envId=2024-03-23
-
-6 Find the Duplicate Number                           https://leetcode.com/problems/find-the-duplicate-number/submissions/1212815684?envType=daily-question&envId=2024-03-24
-
-7 Find All Duplicates in an Array                     https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/1213492632?envType=daily-question&envId=2024-03-25
-
-8 First Missing Positive                              https://leetcode.com/problems/first-missing-positive/submissions/1214548073?envType=daily-question&envId=2024-03-26
-
-9 Subarray Product Less Than K                        https://leetcode.com/problems/subarray-product-less-than-k/submissions/1215598880?envType=daily-question&envId=2024-03-27
-
-8 Length of Longest Subarray With at Most K Frequency https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/submissions/1216740139?envType=daily-question&envId=2024-03-28
-
-9 Count Subarrays Where Max Element Appears at Least K Times https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/submissions/1217559149?envType=daily-question&envId=2024-03-29
-
-10 ⭐ Subarrays with K Different Integers                 https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/1218598298?envType=daily-question&envId=2024-03-30
-
-11 ⭐ Count Subarrays With Fixed Bounds                  [https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219357371?envType=daily-question&envId=2024-03-31](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219359347?envType=daily-question&envId=2024-03-31)
-
-12 Length of Last Word                                https://leetcode.com/problems/length-of-last-word/submissions/1219596205?envType=daily-question&envId=2024-04-01
-
-13 Isomorphic Strings                                https://leetcode.com/problems/isomorphic-strings/submissions/1220623717?envType=daily-question&envId=2024-04-02
-
-14 Word Search                                       https://leetcode.com/problems/word-search/submissions/1222525290?envType=daily-question&envId=2024-04-03
-
-15  Maximum Nesting Depth of the Parentheses        https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/submissions/1223121255?envType=daily-question&envId=2024-04-04
-
-16 Make The String Great                            https://leetcode.com/problems/make-the-string-great/submissions/1224255697?envType=daily-question&envId=2024-04-05
-
-17 Minimum Remove to Make Valid Parentheses        https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/1224931594?envType=daily-question&envId=2024-04-06
-
-18 Valid Parenthesis String                        https://leetcode.com/problems/valid-parenthesis-string/submissions/1226160148?envType=daily-question&envId=2024-04-07
-
-19 Number of Students Unable to Eat Lunch          https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/1227010117?envType=daily-question&envId=2024-04-08
-
-20 Time Needed to Buy Tickets                    https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1227932283?envType=daily-question&envId=2024-04-09
-
-21 Reveal Cards In Increasing Order              https://leetcode.com/problems/reveal-cards-in-increasing-order/submissions/1228799742?envType=daily-question&envId=2024-04-10
-
-22 ⭐ Remove K Digits                              https://leetcode.com/problems/remove-k-digits/submissions/1229664400?envType=daily-question&envId=2024-04-11
-
-23 Longest Strictly Increasing or Strictly Decreasing Subarray https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/submissions/1229807647
-
-24 Trapping Rain Water                              https://leetcode.com/problems/trapping-rain-water/submissions/1230518120?envType=daily-question&envId=2024-04-12
-
-25 Maximal Rectangle                              https://leetcode.com/problems/maximal-rectangle/submissions/1231563085?envType=daily-question&envId=2024-04-13
-
-
-26 Sum of Left Leaves                          https://leetcode.com/problems/sum-of-left-leaves/submissions/1232419311?envType=daily-question&envId=2024-04-14
-
-27 Sum Root to Leaf Numbers                  https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1233314996?envType=daily-question&envId=2024-04-15
-
-28 Add One Row to Tree                      https://leetcode.com/problems/add-one-row-to-tree/submissions/1234349363?envType=daily-question&envId=2024-04-16
-
-29 Smallest String Starting From Leaf      https://leetcode.com/problems/smallest-string-starting-from-leaf/submissions/1235171055?envType=daily-question&envId=2024-04-17
-
-30 Number of Islands                      https://leetcode.com/problems/number-of-islands/submissions/1236851423?envType=daily-question&envId=2024-04-19
-
-31 Find All Groups of Farmland            https://leetcode.com/problems/find-all-groups-of-farmland/submissions/1237574391?envType=daily-question&envId=2024-04-20
-
-32 Find if Path Exists in Graph          https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/1238382096?envType=daily-question&envId=2024-04-21
-
-33 Open the Lock                      https://leetcode.com/problems/open-the-lock/submissions/1239299310?envType=daily-question&envId=2024-04-22
-
-34 N-th Tribonacci Number            https://leetcode.com/problems/n-th-tribonacci-number/submissions/1240852342?envType=daily-question&envId=2024-04-24
-
-35 Longest Ideal Subsequence      https://leetcode.com/problems/longest-ideal-subsequence/submissions/1242010364?envType=daily-question&envId=2024-04-25
-
-36 Minimum Falling Path Sum II       https://leetcode.com/problems/minimum-falling-path-sum-ii/submissions/1242797620/?envType=daily-question&envId=2024-04-26
-
-37 Score After Flipping Matrix       https://leetcode.com/problems/score-after-flipping-matrix/submissions/1257158184?envType=daily-question&envId=2024-05-13
-
-38 Path with Maximum Gold            https://leetcode.com/problems/path-with-maximum-gold/submissions/1257817184?envType=daily-question&envId=2024-05-14
-
-39 Find the Safest Path in a Grid  https://leetcode.com/problems/find-the-safest-path-in-a-grid/submissions/1258848768?envType=daily-question&envId=2024-05-15
-
-40  Evaluate Boolean Binary Tree  https://leetcode.com/problems/evaluate-boolean-binary-tree/submissions/1259808289?envType=daily-question&envId=2024-05-16
-
-41 Delete Leaves With a Given Value  https://leetcode.com/problems/delete-leaves-with-a-given-value/submissions/1260627283?envType=daily-question&envId=2024-05-17
-
-42 Distribute Coins in Binary Tree https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/1261525621?envType=daily-question&envId=2024-05-18
-
-43 Find the Maximum Sum of Node Values   ⭐    https://leetcode.com/problems/find-the-maximum-sum-of-node-values/submissions/1262359603?envType=daily-question&envId=2024-05-19
-
-
+| Number | Name                                             | Link                                                                                                       |
+|--------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 1      | Task Scheduler                                   | [Link](https://leetcode.com/problems/task-scheduler/submissions/1208588088?envType=daily-question&envId=2024-03-19)  |
+| 2      | Merge In Between Linked Lists                    | [Link](https://leetcode.com/problems/merge-in-between-linked-lists/submissions/1209168286?envType=daily-question&envId=2024-03-20) |
+| 3      | Reverse Linked List                              | [Link](https://leetcode.com/problems/reverse-linked-list/submissions/1210204005?envType=daily-question&envId=2024-03-21)  |
+| 4      | Palindrome Linked List                           | [Link](https://leetcode.com/problems/palindrome-linked-list/submissions/1210867061?envType=daily-question&envId=2024-03-22)  |
+| 5      | Reorder List                                     | [Link](https://leetcode.com/problems/reorder-list/submissions/1211769867?envType=daily-question&envId=2024-03-23)  |
+| 6      | Find the Duplicate Number                       | [Link](https://leetcode.com/problems/find-the-duplicate-number/submissions/1212815684?envType=daily-question&envId=2024-03-24)  |
+| 7      | Find All Duplicates in an Array                 | [Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/1213492632?envType=daily-question&envId=2024-03-25)  |
+| 8      | First Missing Positive                           | [Link](https://leetcode.com/problems/first-missing-positive/submissions/1214548073?envType=daily-question&envId=2024-03-26)  |
+| 9      | Subarray Product Less Than K                     | [Link](https://leetcode.com/problems/subarray-product-less-than-k/submissions/1215598880?envType=daily-question&envId=2024-03-27)  |
+| 10     | Length of Longest Subarray With at Most K Frequency | [Link](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/submissions/1216740139?envType=daily-question&envId=2024-03-28)  |
+| 11     | Count Subarrays Where Max Element Appears at Least K Times | [Link](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/submissions/1217559149?envType=daily-question&envId=2024-03-29)  |
+| 12     | Subarrays with K Different Integers              | [Link](https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/1218598298?envType=daily-question&envId=2024-03-30)  |
+| 13     | Count Subarrays With Fixed Bounds                | [Link](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/submissions/1219357371?envType=daily-question&envId=2024-03-31)  |
+| 14     | Length of Last Word                              | [Link](https://leetcode.com/problems/length-of-last-word/submissions/1219596205?envType=daily-question&envId=2024-04-01)  |
+| 15     | Isomorphic Strings                               | [Link](https://leetcode.com/problems/isomorphic-strings/submissions/1220623717?envType=daily-question&envId=2024-04-02)  |
+| 16     | Word Search                                      | [Link](https://leetcode.com/problems/word-search/submissions/1222525290?envType=daily-question&envId=2024-04-03)  |
+| 17     | Maximum Nesting Depth of the Parentheses         | [Link](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/submissions/1223121255?envType=daily-question&envId=2024-04-04)  |
+| 18     | Make The String Great                            | [Link](https://leetcode.com/problems/make-the-string-great/submissions/1224255697?envType=daily-question&envId=2024-04-05)  |
+| 19     | Minimum Remove to Make Valid Parentheses         | [Link](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/1224931594?envType=daily-question&envId=2024-04-06)  |
+| 20     | Valid Parenthesis String                         | [Link](https://leetcode.com/problems/valid-parenthesis-string/submissions/1226160148?envType=daily-question&envId=2024-04-07)  |
+| 21     | Number of Students Unable to Eat Lunch           | [Link](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/1227010117?envType=daily-question&envId=2024-04-08)  |
+| 22     | Time Needed to Buy Tickets                       | [Link](https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1227932283?envType=daily-question&envId=2024-04-09)  |
+| 23     | Reveal Cards In Increasing Order                 | [Link](https://leetcode.com/problems/reveal-cards-in-increasing-order/submissions/1228799742?envType=daily-question&envId=2024-04-10)  |
+| 24     | Remove K Digits                                  | [Link](https://leetcode.com/problems/remove-k-digits/submissions/1229664400?envType=daily-question&envId=2024-04-11)  |
+| 25     | Longest Strictly Increasing or Strictly Decreasing Subarray | [Link](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/submissions/1229807647) |
+| 26     | Trapping Rain Water                              | [Link](https://leetcode.com/problems/trapping-rain-water/submissions/1230518120?envType=daily-question&envId
+| 25     | Maximal Rectangle                                | [Link](https://leetcode.com/problems/maximal-rectangle/submissions/1231563085?envType=daily-question&envId=2024-04-13)  |
+| 26     | Sum of Left Leaves                               | [Link](https://leetcode.com/problems/sum-of-left-leaves/submissions/1232419311?envType=daily-question&envId=2024-04-14)  |
+| 27     | Sum Root to Leaf Numbers                         | [Link](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1233314996?envType=daily-question&envId=2024-04-15)  |
+| 28     | Add One Row to Tree                              | [Link](https://leetcode.com/problems/add-one-row-to-tree/submissions/1234349363?envType=daily-question&envId=2024-04-16)  |
+| 29     | Smallest String Starting From Leaf               | [Link](https://leetcode.com/problems/smallest-string-starting-from-leaf/submissions/1235171055?envType=daily-question&envId=2024-04-17)  |
+| 30     | Number of Islands                                | [Link](https://leetcode.com/problems/number-of-islands/submissions/1236851423?envType=daily-question&envId=2024-04-19)  |
+| 31     | Find All Groups of Farmland                      | [Link](https://leetcode.com/problems/find-all-groups-of-farmland/submissions/1237574391?envType=daily-question&envId=2024-04-20)  |
+| 32     | Find if Path Exists in Graph                     | [Link](https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/1238382096?envType=daily-question&envId=2024-04-21)  |
+| 33     | Open the Lock                                    | [Link](https://leetcode.com/problems/open-the-lock/submissions/1239299310?envType=daily-question&envId=2024-04-22)  |
+| 34     | N-th Tribonacci Number                           | [Link](https://leetcode.com/problems/n-th-tribonacci-number/submissions/1240852342?envType=daily-question&envId=2024-04-24)  |
+| 35     | Longest Ideal Subsequence                        | [Link](https://leetcode.com/problems/longest-ideal-subsequence/submissions/1242010364?envType=daily-question&envId=2024-04-25)  |
+| 36     | Minimum Falling Path Sum II                      | [Link](https://leetcode.com/problems/minimum-falling-path-sum-ii/submissions/1242797620/?envType=daily-question&envId=2024-04-26)  |
+| 37     | Score After Flipping Matrix                      | [Link](https://leetcode.com/problems/score-after-flipping-matrix/submissions/1257158184?envType=daily-question&envId=2024-05-13)  |
+| 38     | Path with Maximum Gold                           | [Link](https://leetcode.com/problems/path-with-maximum-gold/submissions/1257817184?envType=daily-question&envId=2024-05-14)  |
+| 39     | Find the Safest Path in a Grid                   | [Link](https://leetcode.com/problems/find-the-safest-path-in-a-grid/submissions/1258848768?envType=daily-question&envId=2024-05-15)  |
+| 40     | Evaluate Boolean Binary Tree                     | [Link](https://leetcode.com/problems/evaluate-boolean-binary-tree/submissions/1259808289?envType=daily-question&envId=2024-05-16)  |
+| 41     | Delete Leaves With a Given Value                 | [Link](https://leetcode.com/problems/delete-leaves-with-a-given-value/submissions/1260627283?envType=daily-question&envId=2024-05-17)  |
+| 42     | Distribute Coins in Binary Tree                 | [Link](https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/1261525621?envType=daily-question&envId=2024-05-18)  |
+| 43     | Find the Maximum Sum of Node Values              | [Link](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/submissions/1262359603?envType=daily-question&envId=2024-05-19)  |
