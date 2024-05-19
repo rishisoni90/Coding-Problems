@@ -47,7 +47,7 @@
 | 23     | Reveal Cards In Increasing Order                 | [Link](https://leetcode.com/problems/reveal-cards-in-increasing-order/submissions/1228799742?envType=daily-question&envId=2024-04-10)  |
 | 24     | Remove K Digits                                  | [Link](https://leetcode.com/problems/remove-k-digits/submissions/1229664400?envType=daily-question&envId=2024-04-11)  |
 | 25     | Longest Strictly Increasing or Strictly Decreasing Subarray | [Link](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/submissions/1229807647) |
-| 26     | Trapping Rain Water                              | [Link](https://leetcode.com/problems/trapping-rain-water/submissions/1230518120?envType=daily-question&envId
+| 26     | Trapping Rain Water                              | [Link](https://leetcode.com/problems/trapping-rain-water/submissions/1230518120?envType=daily-question&envId)
 | 25     | Maximal Rectangle                                | [Link](https://leetcode.com/problems/maximal-rectangle/submissions/1231563085?envType=daily-question&envId=2024-04-13)  |
 | 26     | Sum of Left Leaves                               | [Link](https://leetcode.com/problems/sum-of-left-leaves/submissions/1232419311?envType=daily-question&envId=2024-04-14)  |
 | 27     | Sum Root to Leaf Numbers                         | [Link](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1233314996?envType=daily-question&envId=2024-04-15)  |
