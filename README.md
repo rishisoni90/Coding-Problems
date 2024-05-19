@@ -1,18 +1,16 @@
                                  
                                                        
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/c48ddd82-af6b-4d40-935c-731ef5807127)                     
+| Image | Description |
+|-------|-------------|
+| ![Image 1](https://github.com/rishisoni90/Coding-Problems/assets/55064658/c48ddd82-af6b-4d40-935c-731ef5807127) | Image 1 |
+| ![Image 2](https://github.com/rishisoni90/Coding-Problems/assets/55064658/70ff4d35-e6b2-4119-b33d-675d0009c4a9) | Image 2 |
+| ![Image 3](https://github.com/rishisoni90/Coding-Problems/assets/55064658/cdb23e2a-4165-4951-ab26-7db1b7e030f0) | Image 3 |
+| ![Image 4](https://github.com/rishisoni90/Coding-Problems/assets/55064658/3777e388-1ed0-483f-b37a-0e4d41acd1ee) | Image 4 |
+| ![Image 5](https://github.com/rishisoni90/Coding-Problems/assets/55064658/bc58d285-e478-471f-8120-b8f4406ea8c2) | Image 5 |
+| ![Image 6](https://github.com/rishisoni90/Coding-Problems/assets/55064658/febc75fe-cb74-4faa-a71b-04e88ae9ade9) | Image 6 |
+| ![Image 7](https://github.com/rishisoni90/Coding-Problems/assets/55064658/687be210-91ee-4744-8a28-33fc5cb03c4e) | Image 7 |
+| ![Image 8](https://github.com/rishisoni90/Coding-Problems/assets/55064658/661b96b7-332d-4279-85f4-8fe779714497) | Image 8 |
 
-
-                             
-
-
-
-
-
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/70ff4d35-e6b2-4119-b33d-675d0009c4a9)![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/cdb23e2a-4165-4951-ab26-7db1b7e030f0) ![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/3777e388-1ed0-483f-b37a-0e4d41acd1ee)
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/bc58d285-e478-471f-8120-b8f4406ea8c2)![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/febc75fe-cb74-4faa-a71b-04e88ae9ade9)
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/687be210-91ee-4744-8a28-33fc5cb03c4e)
-![alt text](https://github.com/rishisoni90/Coding-Problems/assets/55064658/661b96b7-332d-4279-85f4-8fe779714497)
 
 
 
@@ -111,5 +109,7 @@
 41 Delete Leaves With a Given Value  https://leetcode.com/problems/delete-leaves-with-a-given-value/submissions/1260627283?envType=daily-question&envId=2024-05-17
 
 42 Distribute Coins in Binary Tree https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/1261525621?envType=daily-question&envId=2024-05-18
+
+43 Find the Maximum Sum of Node Values   ⭐    https://leetcode.com/problems/find-the-maximum-sum-of-node-values/submissions/1262359603?envType=daily-question&envId=2024-05-19
 
 
