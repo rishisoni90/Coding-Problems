@@ -67,3 +67,4 @@
 | 41     | Delete Leaves With a Given Value                 | [Link](https://leetcode.com/problems/delete-leaves-with-a-given-value/submissions/1260627283?envType=daily-question&envId=2024-05-17)  |
 | 42     | Distribute Coins in Binary Tree                 | [Link](https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/1261525621?envType=daily-question&envId=2024-05-18)  |
 | 43     | Find the Maximum Sum of Node Values              | [Link](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/submissions/1262359603?envType=daily-question&envId=2024-05-19)  |
+| 44     | Sum of All Subset XOR Totals                     | [Link](https://leetcode.com/problems/sum-of-all-subset-xor-totals/submissions/1263121421?envType=daily-question&envId=2024-05-20)     |
