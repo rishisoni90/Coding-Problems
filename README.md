@@ -70,4 +70,4 @@
 | 44     | Sum of All Subset XOR Totals                     | [Link](https://leetcode.com/problems/sum-of-all-subset-xor-totals/submissions/1263121421?envType=daily-question&envId=2024-05-20)     |
 | 45     | Subsets                                          | [Link](https://leetcode.com/problems/subsets/submissions/792497429?envType=daily-question&envId=2024-05-21)   |
 
-| 46    |  Palindrome Partitioning                          | [Link] (https://leetcode.com/problems/palindrome-partitioning/submissions/1265035379?envType=daily-question&envId=2024-05-22)     |
+| 46     |  Palindrome Partitioning                         | [Link](https://leetcode.com/problems/palindrome-partitioning/submissions/1265035379?envType=daily-question&envId=2024-05-22)     |
