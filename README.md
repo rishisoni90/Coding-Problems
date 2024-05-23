@@ -1,3 +1,5 @@
+<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
+
                                  
 | Badges | Description           |
 |-------|-----------------------|
