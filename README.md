@@ -66,8 +66,8 @@
 | 40     | Evaluate Boolean Binary Tree                     | [Link](https://leetcode.com/problems/evaluate-boolean-binary-tree/submissions/1259808289?envType=daily-question&envId=2024-05-16)  |
 | 41     | Delete Leaves With a Given Value                 | [Link](https://leetcode.com/problems/delete-leaves-with-a-given-value/submissions/1260627283?envType=daily-question&envId=2024-05-17)  |
 | 42     | Distribute Coins in Binary Tree                 | [Link](https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/1261525621?envType=daily-question&envId=2024-05-18)  |
-| 43     | Find the Maximum Sum of Node Values              | [Link](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/submissions/1262359603?envType=daily-question&envId=2024-05-19)  |
+| 43  📌    | Find the Maximum Sum of Node Values              | [Link](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/submissions/1262359603?envType=daily-question&envId=2024-05-19)  |
 | 44     | Sum of All Subset XOR Totals                     | [Link](https://leetcode.com/problems/sum-of-all-subset-xor-totals/submissions/1263121421?envType=daily-question&envId=2024-05-20)     |
 | 45     | Subsets                                          | [Link](https://leetcode.com/problems/subsets/submissions/792497429?envType=daily-question&envId=2024-05-21)   |
-| 46     |  Palindrome Partitioning                         | [Link](https://leetcode.com/problems/palindrome-partitioning/submissions/1265035379?envType=daily-question&envId=2024-05-22)     |
+| 46 📌    |  Palindrome Partitioning                         | [Link](https://leetcode.com/problems/palindrome-partitioning/submissions/1265035379?envType=daily-question&envId=2024-05-22)     |
 | 47 📌    | The Number of Beautiful Subsets                  | [Link](https://leetcode.com/problems/the-number-of-beautiful-subsets/submissions/1265866397?envType=daily-question&envId=2024-05-23)  |
