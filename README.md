@@ -76,8 +76,8 @@
 | 46 📌    |  Palindrome Partitioning                         | [Link](https://leetcode.com/problems/palindrome-partitioning/submissions/1265035379?envType=daily-question&envId=2024-05-22)     |
 | 47 📌    | The Number of Beautiful Subsets                  | [Link](https://leetcode.com/problems/the-number-of-beautiful-subsets/submissions/1265866397?envType=daily-question&envId=2024-05-23)  |
 | 48 📌  |  Maximum Score Words Formed by Letters | [Link](https://leetcode.com/problems/maximum-score-words-formed-by-letters/submissions/1266884680?envType=daily-question&envId=2024-05-24)   |
-| 49     |  Word Break II        | [Link](https://leetcode.com/problems/word-break-ii/submissions/1267784972?envType=daily-question&envId=2024-05-25) |
-| 50     | Student Attendance Record II | [Link](https://leetcode.com/problems/student-attendance-record-ii/submissions/1268601077?envType=daily-question&envId=2024-05-26) |
+| 49 📌    |  Word Break II        | [Link](https://leetcode.com/problems/word-break-ii/submissions/1267784972?envType=daily-question&envId=2024-05-25) |
+| 50 📌    | Student Attendance Record II | [Link](https://leetcode.com/problems/student-attendance-record-ii/submissions/1268601077?envType=daily-question&envId=2024-05-26) |
 
 
 
