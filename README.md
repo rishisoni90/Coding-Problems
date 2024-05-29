@@ -80,6 +80,7 @@
 | 50 📌    | Student Attendance Record II | [Link](https://leetcode.com/problems/student-attendance-record-ii/submissions/1268601077?envType=daily-question&envId=2024-05-26) |
 | 51 😤      | Special Array With X Elements Greater Than or Equal X | [Link](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/submissions/1269737687?envType=daily-question&envId=2024-05-27) |
 | 52 | Get Equal Substrings Within Budget | [Link](https://leetcode.com/problems/get-equal-substrings-within-budget/submissions/1270623693?envType=daily-question&envId=2024-05-28)  |
+| 53 | Number of Steps to Reduce a Number in Binary Representation to One | [Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/submissions/1271460303?envType=daily-question&envId=2024-05-29) |
 
 
 
