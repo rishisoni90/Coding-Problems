@@ -6,7 +6,7 @@
 | ![Image 1](https://github.com/rishisoni90/Coding-Problems/assets/55064658/c48ddd82-af6b-4d40-935c-731ef5807127) | LeetCode               |
 | ![Image 2](https://github.com/rishisoni90/Coding-Problems/assets/55064658/70ff4d35-e6b2-4119-b33d-675d0009c4a9) | 50 Days                |
 | ![Image 3](https://github.com/rishisoni90/Coding-Problems/assets/55064658/cdb23e2a-4165-4951-ab26-7db1b7e030f0) | 50 Days                |
-| ![Image 4](https://github.com/rishisoni90/Coding-Problems/assets/55064658/3777e388-1ed0-483f-b37a-0e4d41acd1ee) | 100 Days               |
+| ![Image 4](https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif) | 100 Days               |
 | ![Image 5](https://github.com/rishisoni90/Coding-Problems/assets/55064658/bc58d285-e478-471f-8120-b8f4406ea8c2) | February Badge         |
 | ![Image 7](https://github.com/rishisoni90/Coding-Problems/assets/55064658/687be210-91ee-4744-8a28-33fc5cb03c4e) | April Badge            |
 | ![Image 6](https://github.com/rishisoni90/Coding-Problems/assets/55064658/febc75fe-cb74-4faa-a71b-04e88ae9ade9) | March Badge            |
