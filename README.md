@@ -4,7 +4,7 @@
 | Badges | Description           |
 |-------|-----------------------|
 | ![Image 1](https://github.com/rishisoni90/Coding-Problems/assets/55064658/c48ddd82-af6b-4d40-935c-731ef5807127) | LeetCode               |
-| ![Image 2](https://github.com/rishisoni90/Coding-Problems/assets/55064658/70ff4d35-e6b2-4119-b33d-675d0009c4a9) | 50 Days                |
+| ![Image 2](https://assets.leetcode.com/static_assets/marketing/2023-50.gif) | 50 Days 2023             |
 | ![Image 3](https://assets.leetcode.com/static_assets/marketing/2024-50.gif) | 50 Days 2024                |
 | ![Image 4](https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif) | 100 Days               |
 | ![Image 5](https://github.com/rishisoni90/Coding-Problems/assets/55064658/bc58d285-e478-471f-8120-b8f4406ea8c2) | February Badge         |
