@@ -1,11 +1,6 @@
 ## Reference & Resources
 
 
-![Animation](https://your-gif-url.com/animation.gif)
-
-
-
-
                                  
 | Badges | Description           |
 |-------|-----------------------|
