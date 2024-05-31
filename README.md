@@ -10,6 +10,7 @@
 | ![Image 5](https://github.com/rishisoni90/Coding-Problems/assets/55064658/bc58d285-e478-471f-8120-b8f4406ea8c2) | February Badge         |
 | ![Image 7](https://github.com/rishisoni90/Coding-Problems/assets/55064658/687be210-91ee-4744-8a28-33fc5cb03c4e) | April Badge            |
 | ![Image 6](https://github.com/rishisoni90/Coding-Problems/assets/55064658/febc75fe-cb74-4faa-a71b-04e88ae9ade9) | March Badge            |
+| ![Image 7](https://leetcode.com/static/images/badges/2024/gif/2024-05.gif) | May Badge |
 | ![Image 8](https://github.com/rishisoni90/Coding-Problems/assets/55064658/661b96b7-332d-4279-85f4-8fe779714497) | 100 Days               |
 
 
