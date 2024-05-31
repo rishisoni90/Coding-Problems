@@ -1,7 +1,7 @@
 ## Reference & Resources
 
 
-| ![Link]([https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-11492972-9325307.png](https://media.istockphoto.com/id/1360429800/video/keyboard-typing-animation-computer-device-and-user-hands-technology-and-business-concept-work.mp4?s=mp4-640x640-is&k=20&c=Z1MeFL7mjidjKjKVlxGgBdeqNxsBmnnah_MICYViqBY=)) |               |
+| [Link]([https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-11492972-9325307.png](https://media.istockphoto.com/id/1360429800/video/keyboard-typing-animation-computer-device-and-user-hands-technology-and-business-concept-work.mp4?s=mp4-640x640-is&k=20&c=Z1MeFL7mjidjKjKVlxGgBdeqNxsBmnnah_MICYViqBY=)) |               |
 
                                  
 | Badges | Description           |
