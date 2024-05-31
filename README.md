@@ -3,7 +3,7 @@
                                  
 | Badges | Description           |
 |-------|-----------------------|
-| ![Image 1](https://github.com/rishisoni90/Coding-Problems/assets/55064658/c48ddd82-af6b-4d40-935c-731ef5807127) | LeetCode               |
+| ![Image 1](<a href="https://iconscout.com/3d-illustrations/leetcode" class="text-underline font-size-sm" target="_blank">LeetCode</a> by <a href="https://iconscout.com/contributors/sonisokell" class="text-underline font-size-sm">Soni Sokell</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>) | LeetCode               |
 | ![Image 2](https://assets.leetcode.com/static_assets/marketing/2023-50.gif) | 50 Days 2023             |
 | ![Image 3](https://assets.leetcode.com/static_assets/marketing/2024-50.gif) | 50 Days 2024                |
 | ![Image 4](https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif) | 100 Days               |
