@@ -7,9 +7,9 @@
 | ![Image 2](https://assets.leetcode.com/static_assets/marketing/2023-50.gif) | 50 Days 2023             |
 | ![Image 3](https://assets.leetcode.com/static_assets/marketing/2024-50.gif) | 50 Days 2024                |
 | ![Image 4](https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif) | 100 Days               |
-| ![Image 5](https://github.com/rishisoni90/Coding-Problems/assets/55064658/bc58d285-e478-471f-8120-b8f4406ea8c2) | February Badge         |
-| ![Image 7](https://github.com/rishisoni90/Coding-Problems/assets/55064658/687be210-91ee-4744-8a28-33fc5cb03c4e) | April Badge            |
-| ![Image 6](https://github.com/rishisoni90/Coding-Problems/assets/55064658/febc75fe-cb74-4faa-a71b-04e88ae9ade9) | March Badge            |
+| ![Image 5](https://leetcode.com/static/images/badges/2024/gif/2024-02.gif) | February Badge         |
+| ![Image 7](https://leetcode.com/static/images/badges/2024/gif/2024-04.gif) | April Badge            |
+| ![Image 6](https://leetcode.com/static/images/badges/2024/gif/2024-03.gif) | March Badge            |
 | ![Image 7](https://leetcode.com/static/images/badges/2024/gif/2024-05.gif) | May Badge |
 | ![Image 8](https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif) | 100 Days  2024             |
 
