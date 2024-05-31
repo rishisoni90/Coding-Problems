@@ -1,6 +1,6 @@
 ## Reference & Resources
 
-[Watch the video](https://media.istockphoto.com/id/1360429800/video/keyboard-typing-animation-computer-device-and-user-hands-technology-and-business-concept-work.mp4?s=mp4-640x640-is&k=20&c=Z1MeFL7mjidjKjKVlxGgBdeqNxsBmnnah_MICYViqBY=)
+![istockphoto-1360429800-640_adpp_is-ezgif com-video-to-gif-converter](https://github.com/rishisoni90/Coding-Problems/assets/55064658/67bff033-e2f8-4dd9-81f1-255a690d9cda)
 
                                  
 | Badges | Description           |
