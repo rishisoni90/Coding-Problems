@@ -96,7 +96,8 @@
 |54 😤| Count Triplets That Can Form Two Arrays of Equal XOR | [Link](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/submissions/1272499344?envType=daily-question&envId=2024-05-30) | 
 | 55 | Single Number III | [Link](https://leetcode.com/problems/single-number-iii/submissions/1273382081?envType=daily-question&envId=2024-05-31) |
 | 56 | Score of a String | [Link](https://leetcode.com/problems/score-of-a-string/submissions/1274362037?envType=daily-question&envId=2024-06-01)|
-| 57 | Reverse String | [Link](https://leetcode.com/problems/reverse-string/submissions/1275469565?envType=daily-question&envId=2024-06-02)
+| 57 | Reverse String | [Link](https://leetcode.com/problems/reverse-string/submissions/1275469565?envType=daily-question&envId=2024-06-02) |
+| 58 |  Append Characters to String to Make Subsequence | [Link](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/submissions/1276396427?envType=daily-question&envId=2024-06-03) |
 
 
 
