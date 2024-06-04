@@ -98,6 +98,7 @@
 | 56 | Score of a String | [Link](https://leetcode.com/problems/score-of-a-string/submissions/1274362037?envType=daily-question&envId=2024-06-01)|
 | 57 | Reverse String | [Link](https://leetcode.com/problems/reverse-string/submissions/1275469565?envType=daily-question&envId=2024-06-02) |
 | 58 |  Append Characters to String to Make Subsequence | [Link](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/submissions/1276396427?envType=daily-question&envId=2024-06-03) |
+| 59 | Longest Palindrome | [Link](https://leetcode.com/problems/longest-palindrome/submissions/1277419726?envType=daily-question&envId=2024-06-04) |
 
 
 
