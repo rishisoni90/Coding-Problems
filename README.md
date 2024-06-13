@@ -107,6 +107,7 @@
 | 65 | Height Checker | [Link](https://leetcode.com/problems/height-checker/submissions/1283877487?envType=daily-question&envId=2024-06-10) | 
 | 66 | Relative Sort Array | [Link](https://leetcode.com/problems/relative-sort-array/submissions/1284903397?envType=daily-question&envId=2024-06-11) | 
 | 67 | Sort Colors | [Link](https://leetcode.com/problems/sort-colors/submissions/1286088898?envType=daily-question&envId=2024-06-12) |
+| 68 | Minimum Number of Moves to Seat Everyone | [Link](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/submissions/1287107929?envType=daily-question&envId=2024-06-13) |  
 
 
 
