@@ -109,7 +109,7 @@
 | 67 | Sort Colors | [Link](https://leetcode.com/problems/sort-colors/submissions/1286088898?envType=daily-question&envId=2024-06-12) |
 | 68 | Minimum Number of Moves to Seat Everyone | [Link](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/submissions/1287107929?envType=daily-question&envId=2024-06-13) |  
 | 69 | Minimum Increment to Make Array Unique | [Link](https://leetcode.com/problems/minimum-increment-to-make-array-unique/submissions/1288438324?envType=daily-question&envId=2024-06-14) | 
-| 70 | IPO | [Link](https://leetcode.com/problems/ipo/submissions/1289240676?envType=daily-question&envId=2024-06-15) | 
+| 70 😤 | IPO | [Link](https://leetcode.com/problems/ipo/submissions/1289240676?envType=daily-question&envId=2024-06-15) | 
 
 
 
