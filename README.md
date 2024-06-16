@@ -110,7 +110,7 @@
 | 68 | Minimum Number of Moves to Seat Everyone | [Link](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/submissions/1287107929?envType=daily-question&envId=2024-06-13) |  
 | 69 | Minimum Increment to Make Array Unique | [Link](https://leetcode.com/problems/minimum-increment-to-make-array-unique/submissions/1288438324?envType=daily-question&envId=2024-06-14) | 
 | 70 😤 | IPO | [Link](https://leetcode.com/problems/ipo/submissions/1289240676?envType=daily-question&envId=2024-06-15) | 
-
+| 71 | Patching Array | [Link](https://leetcode.com/problems/patching-array/submissions/1290329621?envType=daily-question&envId=2024-06-16) | 
 
 
 
