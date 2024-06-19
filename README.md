@@ -113,6 +113,7 @@
 | 71 | Patching Array | [Link](https://leetcode.com/problems/patching-array/submissions/1290329621?envType=daily-question&envId=2024-06-16) | 
 | 72 | Sum of Square Numbers | [Link](https://leetcode.com/problems/sum-of-square-numbers/submissions/1291269923?envType=daily-question&envId=2024-06-17) | 
 | 73 | Most Profit Assigning Work | [Link](https://leetcode.com/problems/most-profit-assigning-work/submissions/1292390130?envType=daily-question&envId=2024-06-18) | 
+| 74 🔁 | Minimum Number of Days to Make m Bouquets | [Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/1293588986?envType=daily-question&envId=2024-06-19) |
 
 
 
