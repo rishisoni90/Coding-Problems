@@ -116,7 +116,8 @@
 | 74 🔁 | Minimum Number of Days to Make m Bouquets | [Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/1293588986?envType=daily-question&envId=2024-06-19) |
 | 75 | Magnetic Force Between Two Balls | [Link](https://leetcode.com/problems/magnetic-force-between-two-balls/submissions/1294681615?envType=daily-question&envId=2024-06-20) |
 | 76 | Count Number of Nice Subarrays | [Link](https://leetcode.com/problems/count-number-of-nice-subarrays/submissions/1297013492?envType=daily-question&envId=2024-06-22) | 
-| 77 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Link](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/submissions/1298089138?envType=daily-question&envId=2024-06-23) | 
+| 77 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Link](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/submissions/1298089138?envType=daily-question&envId=2024-06-23) |
+| 78 | Minimum Number of K Consecutive Bit Flips | [Link](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/submissions/1299196236?envType=daily-question&envId=2024-06-24) | 
 
 
 
