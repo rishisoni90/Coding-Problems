@@ -118,6 +118,7 @@
 | 76 | Count Number of Nice Subarrays | [Link](https://leetcode.com/problems/count-number-of-nice-subarrays/submissions/1297013492?envType=daily-question&envId=2024-06-22) | 
 | 77 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Link](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/submissions/1298089138?envType=daily-question&envId=2024-06-23) |
 | 78 | Minimum Number of K Consecutive Bit Flips | [Link](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/submissions/1299196236?envType=daily-question&envId=2024-06-24) | 
+| 79 | Binary Search Tree to Greater Sum Tree | [Link](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/submissions/1300265039?envType=daily-question&envId=2024-06-25) | 
 
 
 
