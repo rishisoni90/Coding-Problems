@@ -120,6 +120,7 @@
 | 78 | Minimum Number of K Consecutive Bit Flips | [Link](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/submissions/1299196236?envType=daily-question&envId=2024-06-24) | 
 | 79 | Binary Search Tree to Greater Sum Tree | [Link](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/submissions/1300265039?envType=daily-question&envId=2024-06-25) | 
 | 80 | Balance a Binary Search Tree | [Link](https://leetcode.com/problems/balance-a-binary-search-tree/submissions/1301294400?envType=daily-question&envId=2024-06-26) | 
+| 81 | Find Center of Star Graph | [Link](https://leetcode.com/problems/find-center-of-star-graph/submissions/1301986602?envType=daily-question&envId=2024-06-27) | 
 
 
 
