@@ -122,6 +122,7 @@
 | 80 | Balance a Binary Search Tree | [Link](https://leetcode.com/problems/balance-a-binary-search-tree/submissions/1301294400?envType=daily-question&envId=2024-06-26) | 
 | 81 | Find Center of Star Graph | [Link](https://leetcode.com/problems/find-center-of-star-graph/submissions/1301986602?envType=daily-question&envId=2024-06-27) | 
 | 82 | Maximum Total Importance of Roads | [Link](https://leetcode.com/problems/maximum-total-importance-of-roads/submissions/1303231696?envType=daily-question&envId=2024-06-28) | 
+| 83 | All Ancestors of a Node in a Directed Acyclic Graph | [Link](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/submissions/1304171779?envType=daily-question&envId=2024-06-29) | 
 
 
 
