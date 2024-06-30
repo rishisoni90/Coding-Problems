@@ -23,7 +23,7 @@
 | ![Image 6](https://leetcode.com/static/images/badges/2024/gif/2024-03.gif) | March Badge            |
 | ![Image 7](https://leetcode.com/static/images/badges/2024/gif/2024-05.gif) | May Badge |
 | [!Image 8](https://leetcode.com/static/images/badges/2024/gif/2024-06.gif) | June Badge | 
-| ![Image 8](https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif) | 100 Days  2024             |
+| ![Image 9](https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif) | 100 Days  2024             |
 
 
 
