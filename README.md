@@ -22,6 +22,7 @@
 | ![Image 7](https://leetcode.com/static/images/badges/2024/gif/2024-04.gif) | April Badge            |
 | ![Image 6](https://leetcode.com/static/images/badges/2024/gif/2024-03.gif) | March Badge            |
 | ![Image 7](https://leetcode.com/static/images/badges/2024/gif/2024-05.gif) | May Badge |
+| [!Image 8](https://leetcode.com/static/images/badges/2024/gif/2024-06.gif) | June Badge | 
 | ![Image 8](https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif) | 100 Days  2024             |
 
 
@@ -123,6 +124,7 @@
 | 81 | Find Center of Star Graph | [Link](https://leetcode.com/problems/find-center-of-star-graph/submissions/1301986602?envType=daily-question&envId=2024-06-27) | 
 | 82 | Maximum Total Importance of Roads | [Link](https://leetcode.com/problems/maximum-total-importance-of-roads/submissions/1303231696?envType=daily-question&envId=2024-06-28) | 
 | 83 | All Ancestors of a Node in a Directed Acyclic Graph | [Link](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/submissions/1304171779?envType=daily-question&envId=2024-06-29) | 
+| 84 | Remove Max Number of Edges to Keep Graph Fully Traversable | [Link](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/submissions/1304991593?envType=daily-question&envId=2024-06-30) | 
 
 
 
