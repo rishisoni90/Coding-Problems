@@ -125,6 +125,7 @@
 | 82 | Maximum Total Importance of Roads | [Link](https://leetcode.com/problems/maximum-total-importance-of-roads/submissions/1303231696?envType=daily-question&envId=2024-06-28) | 
 | 83 | All Ancestors of a Node in a Directed Acyclic Graph | [Link](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/submissions/1304171779?envType=daily-question&envId=2024-06-29) | 
 | 84 😤 | Remove Max Number of Edges to Keep Graph Fully Traversable | [Link](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/submissions/1304991593?envType=daily-question&envId=2024-06-30) | 
+| 85 | Three Consecutive Odds | [Link](https://leetcode.com/problems/three-consecutive-odds/submissions/1305868963?envType=daily-question&envId=2024-07-01) | 
 
 
 
