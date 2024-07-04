@@ -128,6 +128,7 @@
 | 85 | Three Consecutive Odds | [Link](https://leetcode.com/problems/three-consecutive-odds/submissions/1305868963?envType=daily-question&envId=2024-07-01) | 
 | 86 | Intersection of Two Arrays II | [Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/1307039949?envType=daily-question&envId=2024-07-02) | 
 | 87 | Minimum Difference Between Largest and Smallest Value in Three Moves | [Link](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/submissions/1308654946?envType=daily-question&envId=2024-07-03) | 
+| 88 | Merge Nodes in Between Zeros | [Link](https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/1309563408?envType=daily-question&envId=2024-07-04)  | 
 
 
 
