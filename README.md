@@ -130,6 +130,7 @@
 | 87 | Minimum Difference Between Largest and Smallest Value in Three Moves | [Link](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/submissions/1308654946?envType=daily-question&envId=2024-07-03) | 
 | 88 | Merge Nodes in Between Zeros | [Link](https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/1309563408?envType=daily-question&envId=2024-07-04)  | 
 | 89 | Find the Minimum and Maximum Number of Nodes Between Critical Points | [Link](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/submissions/1310716239?envType=daily-question&envId=2024-07-05)  |
+| 90 | Pass the Pillow | [Link](https://leetcode.com/problems/pass-the-pillow/submissions/1311877037?envType=daily-question&envId=2024-07-06) | 
 
 
 
