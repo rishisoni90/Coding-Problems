@@ -131,6 +131,7 @@
 | 88 | Merge Nodes in Between Zeros | [Link](https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/1309563408?envType=daily-question&envId=2024-07-04)  | 
 | 89 | Find the Minimum and Maximum Number of Nodes Between Critical Points | [Link](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/submissions/1310716239?envType=daily-question&envId=2024-07-05)  |
 | 90 | Pass the Pillow | [Link](https://leetcode.com/problems/pass-the-pillow/submissions/1311877037?envType=daily-question&envId=2024-07-06) | 
+| 91 | Water Bottles | [Link](https://leetcode.com/problems/water-bottles/submissions/1313033885?envType=daily-question&envId=2024-07-07) | 
 
 
 
