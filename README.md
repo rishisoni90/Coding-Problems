@@ -132,7 +132,7 @@
 | 89 | Find the Minimum and Maximum Number of Nodes Between Critical Points | [Link](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/submissions/1310716239?envType=daily-question&envId=2024-07-05)  |
 | 90 | Pass the Pillow | [Link](https://leetcode.com/problems/pass-the-pillow/submissions/1311877037?envType=daily-question&envId=2024-07-06) | 
 | 91 | Water Bottles | [Link](https://leetcode.com/problems/water-bottles/submissions/1313033885?envType=daily-question&envId=2024-07-07) | 
-| 92 | Find the Winner of the Circular Game | [Link](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/1314402997?envType=daily-question&envId=2024-07-08)  | 
+| 92 | Find the Winner of the Circular Game | [Link](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/1314402997?envType=daily-question&envId=2024-07-08)  | 93 | Crawler Log Folder | [Link](https://leetcode.com/problems/crawler-log-folder/submissions/1316675362?envType=daily-question&envId=2024-07-10) | 
 
 
 
